@@ -11,8 +11,14 @@ BSc, Computer Science 2004,
 # Canada
 
 Integration Lead | [Electrical Safety Authority](https://esasafe.com/)
-Mississauga, Ontario, Canada
+Mississauga, Ontario
 Mar 2022 - Present · 1 yr 10 mos
+
+
+.NET Developer.NET Developer
+[BMO Financial Group](https://www.bmo.com)
+Greater Toronto Area
+Oct 2009 - Jun 2014 · 4 yrs 9 mos
 
 
 # US
@@ -31,10 +37,11 @@ Aug 2015 - Dec 2016 · 1 yr 5 mos
 ## Certifications
 
 2021
-  [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url)
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url)
+
 2023
-  [Azure Cloud Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/52BE4EE887DDB2E3?sharingId=82982689EA7A035E)
-  [Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/FB8AEFB98B39C9B2?sharingId=82982689EA7A035E)
+#[Azure Cloud Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/52BE4EE887DDB2E3?sharingId=82982689EA7A035E)
+#[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/FB8AEFB98B39C9B2?sharingId=82982689EA7A035E)
 
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
