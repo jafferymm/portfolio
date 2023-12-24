@@ -1,5 +1,5 @@
 ## Senior Data Engineer | Integration Lead | Functional Lead
-
+![Jaffery](/assets/img/measureoncecuttwice.png)
 ## Summary
 
 ## Education 
