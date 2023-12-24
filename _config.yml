@@ -1,5 +1,6 @@
 title: Mohammad [Portfolio]
-logo: /assets/img/measureoncecuttwice.png
+#logo: /assets/img/measureoncecuttwice.png
+image: /assets/images/measureoncecuttwice.png
 description: Senior Data Engineer | Integration Lead | Functional Lead
 #show_downloads: true
 theme: jekyll-theme-minimal
