@@ -5,22 +5,32 @@ jafferymm.github.io
 BSc, Computer Science 2004, [University Of Houston - Clear Lake](https://www.uhcl.edu/)
 
 ### Work Experience
--US
 
-Senior ERP Developer | [Parts Town](https://www.partstown.com),  Addison, Illinois
+# Canada
+
+Integration Lead
+[Electrical Safety Authority](https://esasafe.com/)
+Mar 2022 - Present · 1 yr 10 mos
+Mississauga, Ontario, Canada
+
+# US
+
+Senior ERP Developer | [Parts Town](https://www.partstown.com),  
+Addison, Illinois
 Dec 2016 - Mar 2022 · 5 yrs 4 mos
 
-.NET Developer | [Woodfield Fund Administration](https://www.linkedin.com/company/woodfield-fund-administration-llc/) Rolling Meadows, Illinois
+.NET Developer | [Woodfield Fund Administration](https://www.linkedin.com/company/woodfield-fund-administration-llc/) 
+Rolling Meadows, Illinois
 Aug 2015 - Dec 2016 · 1 yr 5 mos
 
 
-# Senior Data Engineer | Integration Lead | Functional Lead
--Canada
+
 
 ### Projects
 -Project1
 
-##Certifications
+## Certifications
+
 2021
   [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url)
 2023
