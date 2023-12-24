@@ -1,4 +1,4 @@
-# Senior Data Engineer | Integration Lead | Functional Lead
+## Senior Data Engineer | Integration Lead | Functional Lead
 
 ## Summary
 
