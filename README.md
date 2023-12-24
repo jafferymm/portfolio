@@ -1,16 +1,15 @@
-## Senior Data Engineer | Integration Lead | Functional Lead
-jafferymm.github.io
+# Senior Data Engineer | Integration Lead | Functional Lead
 
-# Summary
+## Summary
 
-### Education 
+## Education 
 
 BSc, Computer Science 2004, 
 [University Of Houston - Clear Lake](https://www.uhcl.edu/)
 
-### Work Experience
+## Work Experience
 
-# Canada
+## Canada
 
 Integration Lead | [Electrical Safety Authority](https://esasafe.com/)
 Mississauga, Ontario
@@ -22,7 +21,7 @@ Greater Toronto Area
 Oct 2009 - Jun 2014 · 4 yrs 9 mos
 
 
-# US
+## US
 
 Senior ERP Developer | [Parts Town](https://www.partstown.com),  
 Addison, Illinois
@@ -56,20 +55,20 @@ Jan 2005 - Nov 2007 · 2 yrs 11 mos
 ## Certifications
 
 2021
-[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url)
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url) \
 
 2023
-#[Azure Cloud Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/52BE4EE887DDB2E3?sharingId=82982689EA7A035E)
+#[Azure Cloud Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/52BE4EE887DDB2E3?sharingId=82982689EA7A035E) \
 #[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/FB8AEFB98B39C9B2?sharingId=82982689EA7A035E)
 
-### Skills | Technologies
+## Skills | Technologies
 
 ERP : SYSPRO7, SAP ECC, SAP S4, MS Dynamics \
 DB / Warehouse : SQL Server, Oracle, Azure Synapse \
 Development : .NET, C#, Python, VB \
 Integration : Azure Data Factory, SSIS, Azure Synapse, Boomi. \
 Cloud : Azure, AWS, Akamai, \
-Functional Areas : Finance [AR, AP, GL], Commercial Personal Lending, Hedge Funds, Reporting, Data Warehousing, Integration. \
+Functional Areas : Finance [AR, AP, GL], Commercial Personal Lending, Hedge Funds, Reporting, Data Warehousing, Integration. 
 
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
