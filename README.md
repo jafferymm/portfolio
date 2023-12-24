@@ -1,5 +1,7 @@
-# Senior Data Engineer | Integration Lead | Functional Lead
+## Senior Data Engineer | Integration Lead | Functional Lead
 jafferymm.github.io
+
+# Summary
 
 ### Education 
 
@@ -13,7 +15,6 @@ BSc, Computer Science 2004,
 Integration Lead | [Electrical Safety Authority](https://esasafe.com/)
 Mississauga, Ontario
 Mar 2022 - Present · 1 yr 10 mos
-
 
 .NET Developer.NET Developer
 [BMO Financial Group](https://www.bmo.com)
@@ -31,20 +32,22 @@ Dec 2016 - Mar 2022 · 5 yrs 4 mos
 Rolling Meadows, Illinois
 Aug 2015 - Dec 2016 · 1 yr 5 mos
 
-.Net Engineer
-Coyote Logistics
+.Net Engineer | Coyote Logistics, 
 Chicago, Illinois
 Dec 2014 - Aug 2015 · 9 mos
 
-.NET Developer
-Koch Industries/Flint Hills Resources
+.NET Developer | Koch Industries/Flint Hills Resources
 Wichita, Kansas Area
 Dec 2007 - Jul 2008 · 8 mos
 
-Software Developer
-Anheuser-Busch Inc
+Web Developer | Litton Loan ServicingLitton Loan Servicing
+Houston, Texas Area
+Aug 2008 - Aug 2009 · 1 yr 1 mo
+
+Software Developer | Anheuser-Busch Inc
 Greater St. Louis Area
 Jan 2005 - Nov 2007 · 2 yrs 11 mos
+
 
 
 
@@ -59,6 +62,16 @@ Jan 2005 - Nov 2007 · 2 yrs 11 mos
 #[Azure Cloud Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/52BE4EE887DDB2E3?sharingId=82982689EA7A035E)
 #[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/FB8AEFB98B39C9B2?sharingId=82982689EA7A035E)
 
+### Skills | Technologies
+
+ERP : SYSPRO7, SAP ECC, SAP S4, MS Dynamics
+DB / Warehouse : SQL Server, Oracle, Azure Synapse
+Development : .NET, C#, Python, VB.
+Integration : Azure Data Factory, SSIS, Azure Synapse, Boomi.
+Cloud : Azure, AWS, Akamai, 
+Functional Areas : Finance [AR, AP, GL], Commercial Personal Lending, Hedge Funds, Reporting, Data Warehousing, Integration.
+
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
+
 
