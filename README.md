@@ -64,12 +64,12 @@ Jan 2005 - Nov 2007 · 2 yrs 11 mos
 
 ### Skills | Technologies
 
-ERP : SYSPRO7, SAP ECC, SAP S4, MS Dynamics
-DB / Warehouse : SQL Server, Oracle, Azure Synapse
-Development : .NET, C#, Python, VB.
-Integration : Azure Data Factory, SSIS, Azure Synapse, Boomi.
-Cloud : Azure, AWS, Akamai, 
-Functional Areas : Finance [AR, AP, GL], Commercial Personal Lending, Hedge Funds, Reporting, Data Warehousing, Integration.
+ERP : SYSPRO7, SAP ECC, SAP S4, MS Dynamics \
+DB / Warehouse : SQL Server, Oracle, Azure Synapse \
+Development : .NET, C#, Python, VB \
+Integration : Azure Data Factory, SSIS, Azure Synapse, Boomi. \
+Cloud : Azure, AWS, Akamai, \
+Functional Areas : Finance [AR, AP, GL], Commercial Personal Lending, Hedge Funds, Reporting, Data Warehousing, Integration. \
 
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
