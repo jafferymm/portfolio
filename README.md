@@ -4,7 +4,7 @@ jafferymm.github.io
 # Senior Data Engineer | Integration Lead | Functional Lead
 
 ### Education 
-BSc, Computer Science 2004 
+BSc, Computer Science 2004, [University Of Houston - Clear Lake](https://www.uhcl.edu/)
 
 ### Work Experience
 -US
@@ -12,4 +12,7 @@ BSc, Computer Science 2004
 
 ### Projects
 -Project1
+
+### LinkedIn Profile
+[Connect With Me](http://www.linkedin.com/in/jafferymm)
 
