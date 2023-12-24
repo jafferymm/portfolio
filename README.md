@@ -31,8 +31,24 @@ Dec 2016 - Mar 2022 · 5 yrs 4 mos
 Rolling Meadows, Illinois
 Aug 2015 - Dec 2016 · 1 yr 5 mos
 
-### Projects
--Project1
+.Net Engineer
+Coyote Logistics
+Chicago, Illinois
+Dec 2014 - Aug 2015 · 9 mos
+
+.NET Developer
+Koch Industries/Flint Hills Resources
+Wichita, Kansas Area
+Dec 2007 - Jul 2008 · 8 mos
+
+Software Developer
+Anheuser-Busch Inc
+Greater St. Louis Area
+Jan 2005 - Nov 2007 · 2 yrs 11 mos
+
+
+
+
 
 ## Certifications
 
