@@ -14,8 +14,7 @@ BSc, Computer Science 2004,
 
 * * *
  <p style="color:#ff79c6;"><b>Integration Lead</b></p> | [Electrical Safety Authority](https://esasafe.com/)
- <p style="color:#ff79c6;">
-  Mississauga, Ontario |  Mar 2022 - Current · 1 yr 10 mos </p>
+ <p style="color:#ff79c6;">Mississauga, Ontario |  Mar 2022 - Current · 1 yr 10 mos </p>
 * * *
 
 .NET Developer |[BMO Financial Group](https://www.bmo.com)
@@ -75,6 +74,7 @@ OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
 ## Learning Profiles
 [Pluralsight](https://app.pluralsight.com/profile/jafferymm) \
 [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/mohammadjaffery/transcript/vpj0oigo28rg04e)
+[Microsoft Learn](https://learn.microsoft.com/en-us/users/mohammadjaffery/)
 
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
