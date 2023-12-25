@@ -14,7 +14,7 @@ BSc, Computer Science 2004,
 
 * * *
  Integration Lead | [Electrical Safety Authority](https://esasafe.com/)
- Mississauga, Ontario
+ <p style="color:#ff79c6;"> Mississauga, Ontario</p>
  Mar 2022 - Current · 1 yr 10 mos
 * * *
 
