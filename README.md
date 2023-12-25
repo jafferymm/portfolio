@@ -1,4 +1,3 @@
-## Senior Data Engineer | Integration Lead | Functional Lead
 ![Jaffery](/assets/img/measureoncecuttwice.png)
 
 ## Summary
@@ -10,7 +9,7 @@ BSc, Computer Science 2004,
 
 ## Work Experience
 
-## Canada
+### Canada
 
 Integration Lead | [Electrical Safety Authority](https://esasafe.com/)
 Mississauga, Ontario
@@ -22,7 +21,7 @@ Greater Toronto Area
 Oct 2009 - Jun 2014 · 4 yrs 9 mos
 
 
-## US
+### US
 
 Senior ERP Developer | [Parts Town](https://www.partstown.com),  
 Addison, Illinois
@@ -55,7 +54,7 @@ Jan 2005 - Nov 2007 · 2 yrs 11 mos
 
 ## Certifications
 
-2021
+2021 \
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url) 
 
 2023 \
@@ -65,11 +64,12 @@ Jan 2005 - Nov 2007 · 2 yrs 11 mos
 ## Skills | Technologies
 
 ERP : SYSPRO7, SAP ECC, SAP S4, MS Dynamics \
-DB / Warehouse / Reporting : SQL Server, Oracle, Azure Synapse, ORMs - Dapper, LINQtoSQL, PowerBI, SSRS, CrystalReports
-Development : .NET, C#, Python, VB 
-Integration : Azure Data Factory, SSIS, Azure Synapse, Boomi. AutoMapper.
+DB / Warehouse / Reporting : SQL Server, Oracle, Azure Synapse, ORMs - Dapper, LINQtoSQL, PowerBI, SSRS, CrystalReports \
+Development : .NET, C#, Python, VB \
+Integration : Azure Data Factory, SSIS, Azure Synapse, Boomi. AutoMapper. \
 Cloud : Azure, AWS, Akamai, \
 Functional Areas : Finance [AR, AP, GL], Commercial Personal Lending, Hedge Funds, Reporting, Data Warehousing, Integration. 
+OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
 
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
