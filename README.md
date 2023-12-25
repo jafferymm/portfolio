@@ -1,4 +1,5 @@
 ![Jaffery](/assets/img/measureoncecuttwice.png)
+Developer at heart, Working in Integration, ERPs are my bread and butter, DBs my companion, Linux my hobby, now flirting with Data Engineering.
 
 ## Summary
 
@@ -17,8 +18,7 @@ Mississauga, Ontario
 Mar 2022 - Current · 1 yr 10 mos
 ```
 
-.NET Developer.NET Developer
-[BMO Financial Group](https://www.bmo.com)
+.NET Developer |[BMO Financial Group](https://www.bmo.com)
 Greater Toronto Area
 Oct 2009 - Jun 2014 · 4 yrs 9 mos
 
@@ -73,7 +73,7 @@ Industry : Finance [AR, AP, GL], Commercial & Personal Lending, Hedge Funds, Log
 OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
 
 ## Learning Profiles
-[Pluralsight](https://app.pluralsight.com/profile/jafferymm)
+[Pluralsight](https://app.pluralsight.com/profile/jafferymm) \
 [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/mohammadjaffery/transcript/vpj0oigo28rg04e)
 
 ### LinkedIn Profile
