@@ -33,19 +33,19 @@ Dec 2016 - Mar 2022 · 5 yrs 4 mos
 Rolling Meadows, Illinois
 Aug 2015 - Dec 2016 · 1 yr 5 mos
 
-.Net Engineer | Coyote Logistics, 
+.Net Engineer | [Coyote Logistics](https://coyote.com/) 
 Chicago, Illinois
 Dec 2014 - Aug 2015 · 9 mos
 
-.NET Developer | Koch Industries/Flint Hills Resources
+.NET Developer | [Koch Industries/Flint Hills Resources](https://www.kochind.com/companies/flint-hills-resources)
 Wichita, Kansas Area
 Dec 2007 - Jul 2008 · 8 mos
 
-Web Developer | Litton Loan ServicingLitton Loan Servicing
+Web Developer | [Litton Loan Servicing](https://www.linkedin.com/company/litton)
 Houston, Texas Area
 Aug 2008 - Aug 2009 · 1 yr 1 mo
 
-Software Developer | Anheuser-Busch Inc
+Software Developer | [Anheuser-Busch Inc](https://www.anheuser-busch.com/)
 Greater St. Louis Area
 Jan 2005 - Nov 2007 · 2 yrs 11 mos
 
@@ -55,7 +55,6 @@ Jan 2005 - Nov 2007 · 2 yrs 11 mos
 
 
 ## Certifications
-
 2021 \
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url) 
 
@@ -70,8 +69,12 @@ DB / Warehouse / Reporting : SQL Server, Oracle, Azure Synapse, ORMs - Dapper, L
 Development : .NET, C#, Python, VB \
 Integration : Azure Data Factory, SSIS, Azure Synapse, Boomi. AutoMapper. \
 Cloud : Azure, AWS, Akamai, \
-Functional Areas : Finance [AR, AP, GL], Commercial Personal Lending, Hedge Funds, Reporting, Data Warehousing, Integration. 
+Industry : Finance [AR, AP, GL], Commercial & Personal Lending, Hedge Funds, Logistics, Regulatory, Manufacturing, Quality Assurance, Inventory Management \ 
 OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
+
+## Learning Profiles
+[Pluralsight](https://app.pluralsight.com/profile/jafferymm)
+[Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/mohammadjaffery/transcript/vpj0oigo28rg04e)
 
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
