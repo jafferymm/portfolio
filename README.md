@@ -1,5 +1,6 @@
 ## Senior Data Engineer | Integration Lead | Functional Lead
 ![Jaffery](/assets/img/measureoncecuttwice.png)
+
 ## Summary
 
 ## Education 
@@ -13,7 +14,7 @@ BSc, Computer Science 2004,
 
 Integration Lead | [Electrical Safety Authority](https://esasafe.com/)
 Mississauga, Ontario
-Mar 2022 - Present · 1 yr 10 mos
+Mar 2022 - <span style="background-color: #FFFF00">Current</span> · 1 yr 10 mos
 
 .NET Developer.NET Developer
 [BMO Financial Group](https://www.bmo.com)
@@ -55,18 +56,18 @@ Jan 2005 - Nov 2007 · 2 yrs 11 mos
 ## Certifications
 
 2021
-[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url) \
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url) 
 
-2023
+2023 \
 #[Azure Cloud Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/52BE4EE887DDB2E3?sharingId=82982689EA7A035E) \
 #[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/FB8AEFB98B39C9B2?sharingId=82982689EA7A035E)
 
 ## Skills | Technologies
 
 ERP : SYSPRO7, SAP ECC, SAP S4, MS Dynamics \
-DB / Warehouse : SQL Server, Oracle, Azure Synapse \
-Development : .NET, C#, Python, VB \
-Integration : Azure Data Factory, SSIS, Azure Synapse, Boomi. \
+DB / Warehouse / Reporting : SQL Server, Oracle, Azure Synapse, ORMs - Dapper, LINQtoSQL, PowerBI, SSRS, CrystalReports
+Development : .NET, C#, Python, VB 
+Integration : Azure Data Factory, SSIS, Azure Synapse, Boomi. AutoMapper.
 Cloud : Azure, AWS, Akamai, \
 Functional Areas : Finance [AR, AP, GL], Commercial Personal Lending, Hedge Funds, Reporting, Data Warehousing, Integration. 
 
