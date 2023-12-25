@@ -11,11 +11,11 @@ BSc, Computer Science 2004,
 
 ### Canada
 
-'''
+```
 Integration Lead | [Electrical Safety Authority](https://esasafe.com/)
 Mississauga, Ontario
 Mar 2022 - Current · 1 yr 10 mos
-'''
+```
 
 .NET Developer.NET Developer
 [BMO Financial Group](https://www.bmo.com)
