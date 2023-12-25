@@ -58,8 +58,8 @@ Jan 2005 - Nov 2007 · 2 yrs 11 mos
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f0a6ac0b-a90f-46e3-8fe5-2030c56ff1b6/public_url) 
 
 2023 \
-#[Azure Cloud Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/52BE4EE887DDB2E3?sharingId=82982689EA7A035E) \
-#[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/FB8AEFB98B39C9B2?sharingId=82982689EA7A035E)
+[Azure Cloud Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/52BE4EE887DDB2E3?sharingId=82982689EA7A035E) \
+[Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MohammadJaffery/FB8AEFB98B39C9B2?sharingId=82982689EA7A035E)
 
 ## Skills | Technologies
 
