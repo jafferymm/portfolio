@@ -71,6 +71,8 @@ Cloud : Azure, AWS, Akamai, \
 Industry : Finance [AR, AP, GL], Commercial & Personal Lending, Hedge Funds, Logistics, Regulatory, Manufacturing, Quality Assurance, Inventory Management \ 
 OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
 
+{% comment %}
+
 ## Learning Profiles
 [Pluralsight](https://app.pluralsight.com/profile/jafferymm) \
 [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/mohammadjaffery/transcript/vpj0oigo28rg04e) \
@@ -79,4 +81,4 @@ OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
 
-
+{% endcomment %}
