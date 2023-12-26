@@ -1,6 +1,8 @@
 ![Jaffery](/assets/img/measureoncecuttwice.png) \
 Developer at heart, Working in Integration, ERPs are my bread and butter, DBs my companion, Linux my hobby, now flirting with Data Engineering.
 
+{% comment %}
+
 ## Summary
 
 ## Education 
@@ -71,7 +73,7 @@ Cloud : Azure, AWS, Akamai, \
 Industry : Finance [AR, AP, GL], Commercial & Personal Lending, Hedge Funds, Logistics, Regulatory, Manufacturing, Quality Assurance, Inventory Management \ 
 OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
 
-{% comment %}
+
 
 ## Learning Profiles
 [Pluralsight](https://app.pluralsight.com/profile/jafferymm) \
