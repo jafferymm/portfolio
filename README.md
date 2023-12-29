@@ -85,5 +85,3 @@ OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
 
 {% endcomment %}
 
-
-![Visitor Count](https : //profile-counter.glitch.me/jafferymm/count.svg)
