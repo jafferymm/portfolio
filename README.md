@@ -26,7 +26,7 @@ Oct 2009 - Jun 2014 · 4 yrs 9 mos
 
 ### US
 
-Senior ERP Developer | [Parts Town](https://www.partstown.com),  
+Senior ERP Developer | [Parts Town](https://www.partstown.com)
 Addison, Illinois
 Dec 2016 - Mar 2022 · 5 yrs 4 mos
 
@@ -83,5 +83,4 @@ OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
 
-{% endcomment %}
 
