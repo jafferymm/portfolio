@@ -1,7 +1,7 @@
 ![Jaffery](/assets/img/measureoncecuttwice.png) \
 Developer at heart, Working in Integration, ERPs are my bread and butter, DBs my companion, Linux my hobby, now flirting with Data Engineering.
 
-
+{% comment %}
 
 ## Summary
 
@@ -76,5 +76,5 @@ OS : Windows, Linux [Debian, Ubuntu], Docker, Virtualization.
 ### LinkedIn Profile
 [Connect With Me](http://www.linkedin.com/in/jafferymm)
 
-{% comment %}
+
 {% endcomment %}
